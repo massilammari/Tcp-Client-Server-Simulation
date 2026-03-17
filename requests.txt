@@ -1,0 +1,10 @@
+GET file1.txt
+GET file2.txt
+GET file3.txt
+CALC 5 + 3
+CALC 7 * 9
+CALC 10 - 4
+CALC 15 / 3
+DB GET 1
+DB GET 2
+DB GET 3

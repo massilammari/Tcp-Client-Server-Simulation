@@ -1,0 +1,7 @@
+{
+    "1": {"name": "Ali",    "age": 20, "major": "Computer Science"},
+    "2": {"name": "Sara",   "age": 22, "major": "Networks"},
+    "3": {"name": "Karim",  "age": 21, "major": "AI"},
+    "4": {"name": "Fatima", "age": 23, "major": "Cybersecurity"},
+    "5": {"name": "Youcef", "age": 20, "major": "Software Engineering"}
+}
